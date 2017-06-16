@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6ae8fec9ec69888f3f4e090bd8d8fd03",
+    "content-hash": "8cc7836253a559ce6406dbc3fd970677",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -446,12 +446,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/dbal.git",
-                "reference": "76b65d73ec75b4e1dc672731d0e7be1437870abd"
+                "reference": "757a0072e63b98cdf687ccb4638e87f6d322fc13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/dbal/zipball/76b65d73ec75b4e1dc672731d0e7be1437870abd",
-                "reference": "76b65d73ec75b4e1dc672731d0e7be1437870abd",
+                "url": "https://api.github.com/repos/doctrine/dbal/zipball/757a0072e63b98cdf687ccb4638e87f6d322fc13",
+                "reference": "757a0072e63b98cdf687ccb4638e87f6d322fc13",
                 "shasum": ""
             },
             "require": {
@@ -509,7 +509,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2017-05-20 13:35:00"
+            "time": "2017-06-15 21:40:54"
         },
         {
             "name": "doctrine/doctrine-bundle",
@@ -686,12 +686,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/inflector.git",
-                "reference": "6dcae3aee85691db6df6e91e3b5e10911429516c"
+                "reference": "5a8e3ef6da29737f0ec0345acd67bb6ba49bfad2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/inflector/zipball/6dcae3aee85691db6df6e91e3b5e10911429516c",
-                "reference": "6dcae3aee85691db6df6e91e3b5e10911429516c",
+                "url": "https://api.github.com/repos/doctrine/inflector/zipball/5a8e3ef6da29737f0ec0345acd67bb6ba49bfad2",
+                "reference": "5a8e3ef6da29737f0ec0345acd67bb6ba49bfad2",
                 "shasum": ""
             },
             "require": {
@@ -745,7 +745,7 @@
                 "singularize",
                 "string"
             ],
-            "time": "2017-06-08 15:16:24"
+            "time": "2017-06-16 04:52:04"
         },
         {
             "name": "doctrine/instantiator",
@@ -1093,12 +1093,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Atlantic18/DoctrineExtensions.git",
-                "reference": "f65c02eae3bff1aa57709ea4c8ca26947df95b9c"
+                "reference": "0b0ecb197ab20ddcdb205a3c1c7422bcd36f9d4e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Atlantic18/DoctrineExtensions/zipball/f65c02eae3bff1aa57709ea4c8ca26947df95b9c",
-                "reference": "f65c02eae3bff1aa57709ea4c8ca26947df95b9c",
+                "url": "https://api.github.com/repos/Atlantic18/DoctrineExtensions/zipball/0b0ecb197ab20ddcdb205a3c1c7422bcd36f9d4e",
+                "reference": "0b0ecb197ab20ddcdb205a3c1c7422bcd36f9d4e",
                 "shasum": ""
             },
             "require": {
@@ -1163,7 +1163,7 @@
                 "tree",
                 "uploadable"
             ],
-            "time": "2017-05-29 17:33:48"
+            "time": "2017-06-14 10:49:55"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -5061,12 +5061,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-apcu.git",
-                "reference": "2e7965b8cdfbba50d0092d3f6dca97dddec409e2"
+                "reference": "ddb6ce1ab412f6987099bbb72ab2f4354e545fec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-apcu/zipball/2e7965b8cdfbba50d0092d3f6dca97dddec409e2",
-                "reference": "2e7965b8cdfbba50d0092d3f6dca97dddec409e2",
+                "url": "https://api.github.com/repos/symfony/polyfill-apcu/zipball/ddb6ce1ab412f6987099bbb72ab2f4354e545fec",
+                "reference": "ddb6ce1ab412f6987099bbb72ab2f4354e545fec",
                 "shasum": ""
             },
             "require": {
@@ -5075,7 +5075,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -5106,7 +5106,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-09 08:25:21"
+            "time": "2017-06-14 15:44:48"
         },
         {
             "name": "symfony/polyfill-iconv",
@@ -5114,12 +5114,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-iconv.git",
-                "reference": "ae1347fa81423b67dbc232c8c111facb367ff8b9"
+                "reference": "1ea0e08453819ecc7130e1fb0ee10862c2f33ed0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-iconv/zipball/ae1347fa81423b67dbc232c8c111facb367ff8b9",
-                "reference": "ae1347fa81423b67dbc232c8c111facb367ff8b9",
+                "url": "https://api.github.com/repos/symfony/polyfill-iconv/zipball/1ea0e08453819ecc7130e1fb0ee10862c2f33ed0",
+                "reference": "1ea0e08453819ecc7130e1fb0ee10862c2f33ed0",
                 "shasum": ""
             },
             "require": {
@@ -5131,7 +5131,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -5165,7 +5165,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-09T08:25:21+00:00"
+            "time": "2017-06-14 15:44:48"
         },
         {
             "name": "symfony/polyfill-intl-icu",
@@ -5173,12 +5173,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-icu.git",
-                "reference": "3191cbe0ce64987bd382daf6724af31c53daae01"
+                "reference": "4aa0b65dc71a7369c1e7e6e2a3ca027d9decdb09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-intl-icu/zipball/3191cbe0ce64987bd382daf6724af31c53daae01",
-                "reference": "3191cbe0ce64987bd382daf6724af31c53daae01",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-icu/zipball/4aa0b65dc71a7369c1e7e6e2a3ca027d9decdb09",
+                "reference": "4aa0b65dc71a7369c1e7e6e2a3ca027d9decdb09",
                 "shasum": ""
             },
             "require": {
@@ -5191,7 +5191,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -5223,7 +5223,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-09 08:25:21"
+            "time": "2017-06-14 15:44:48"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -5231,12 +5231,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "f29dca382a6485c3cbe6379f0c61230167681937"
+                "reference": "7c8fae0ac1d216eb54349e6a8baa57d515fe8803"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/f29dca382a6485c3cbe6379f0c61230167681937",
-                "reference": "f29dca382a6485c3cbe6379f0c61230167681937",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/7c8fae0ac1d216eb54349e6a8baa57d515fe8803",
+                "reference": "7c8fae0ac1d216eb54349e6a8baa57d515fe8803",
                 "shasum": ""
             },
             "require": {
@@ -5248,7 +5248,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -5282,7 +5282,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-09 14:24:12"
+            "time": "2017-06-14 15:44:48"
         },
         {
             "name": "symfony/polyfill-php56",
@@ -5290,12 +5290,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php56.git",
-                "reference": "bc0b7d6cb36b10cfabb170a3e359944a95174929"
+                "reference": "e85ebdef569b84e8709864e1a290c40f156b30ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php56/zipball/bc0b7d6cb36b10cfabb170a3e359944a95174929",
-                "reference": "bc0b7d6cb36b10cfabb170a3e359944a95174929",
+                "url": "https://api.github.com/repos/symfony/polyfill-php56/zipball/e85ebdef569b84e8709864e1a290c40f156b30ca",
+                "reference": "e85ebdef569b84e8709864e1a290c40f156b30ca",
                 "shasum": ""
             },
             "require": {
@@ -5305,7 +5305,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -5338,7 +5338,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-09 08:25:21"
+            "time": "2017-06-14 15:44:48"
         },
         {
             "name": "symfony/polyfill-php70",
@@ -5346,12 +5346,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php70.git",
-                "reference": "31e7c2b409137f4f7100317ceb0a9c930e89da51"
+                "reference": "b6482e68974486984f59449ecea1fbbb22ff840f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php70/zipball/31e7c2b409137f4f7100317ceb0a9c930e89da51",
-                "reference": "31e7c2b409137f4f7100317ceb0a9c930e89da51",
+                "url": "https://api.github.com/repos/symfony/polyfill-php70/zipball/b6482e68974486984f59449ecea1fbbb22ff840f",
+                "reference": "b6482e68974486984f59449ecea1fbbb22ff840f",
                 "shasum": ""
             },
             "require": {
@@ -5361,7 +5361,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -5397,7 +5397,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-13 21:35:25"
+            "time": "2017-06-14 15:44:48"
         },
         {
             "name": "symfony/polyfill-util",
@@ -5405,12 +5405,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-util.git",
-                "reference": "ebccbde4aad410f6438d86d7d261c6b4d2b9a51d"
+                "reference": "5d2fc887042ffa5617c28d362f0f114a4c6048bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-util/zipball/ebccbde4aad410f6438d86d7d261c6b4d2b9a51d",
-                "reference": "ebccbde4aad410f6438d86d7d261c6b4d2b9a51d",
+                "url": "https://api.github.com/repos/symfony/polyfill-util/zipball/5d2fc887042ffa5617c28d362f0f114a4c6048bf",
+                "reference": "5d2fc887042ffa5617c28d362f0f114a4c6048bf",
                 "shasum": ""
             },
             "require": {
@@ -5419,7 +5419,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -5449,7 +5449,7 @@
                 "polyfill",
                 "shim"
             ],
-            "time": "2017-06-09 08:25:21"
+            "time": "2017-06-14 15:44:48"
         },
         {
             "name": "symfony/swiftmailer-bundle",
@@ -5516,12 +5516,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "d8d0f877934ca63403cba4949c9293dfc943fb3a"
+                "reference": "d909592b2c474cd21690e90863ae1c86bfa6ccd9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/d8d0f877934ca63403cba4949c9293dfc943fb3a",
-                "reference": "d8d0f877934ca63403cba4949c9293dfc943fb3a",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/d909592b2c474cd21690e90863ae1c86bfa6ccd9",
+                "reference": "d909592b2c474cd21690e90863ae1c86bfa6ccd9",
                 "shasum": ""
             },
             "require": {
@@ -5661,7 +5661,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2017-06-14 07:33:02"
+            "time": "2017-06-15 14:36:39"
         },
         {
             "name": "twig/twig",
@@ -5837,12 +5837,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/willdurand/Hateoas.git",
-                "reference": "e71a5702dce56cc8e077bfc06d982eed38764732"
+                "reference": "3026defaedb461096dade1002d8dd2a743d78a2f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/willdurand/Hateoas/zipball/e71a5702dce56cc8e077bfc06d982eed38764732",
-                "reference": "e71a5702dce56cc8e077bfc06d982eed38764732",
+                "url": "https://api.github.com/repos/willdurand/Hateoas/zipball/3026defaedb461096dade1002d8dd2a743d78a2f",
+                "reference": "3026defaedb461096dade1002d8dd2a743d78a2f",
                 "shasum": ""
             },
             "require": {
@@ -5893,7 +5893,7 @@
                 }
             ],
             "description": "A PHP library to support implementing representations for HATEOAS REST web services",
-            "time": "2017-05-22 10:40:22"
+            "time": "2017-06-15 16:43:41"
         },
         {
             "name": "willdurand/hateoas-bundle",
@@ -6643,6 +6643,44 @@
             "time": "2017-02-14T19:40:03+00:00"
         },
         {
+            "name": "friends-of-behat/performance-extension",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/FriendsOfBehat/PerformanceExtension.git",
+                "reference": "eb0163ebdfda430e429e0a4c6ec2d9bbbd8a6c4b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/FriendsOfBehat/PerformanceExtension/zipball/eb0163ebdfda430e429e0a4c6ec2d9bbbd8a6c4b",
+                "reference": "eb0163ebdfda430e429e0a4c6ec2d9bbbd8a6c4b",
+                "shasum": ""
+            },
+            "require": {
+                "behat/behat": "^3.1",
+                "php": "^5.6|^7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "FriendsOfBehat\\PerformanceExtension\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kamil Kokot",
+                    "email": "kamil@kokot.me",
+                    "homepage": "http://kamil.kokot.me"
+                }
+            ],
+            "description": "Accelerates Behat using features available only for newer PHP versions.",
+            "time": "2016-07-22T21:46:29+00:00"
+        },
+        {
             "name": "justinrainbow/json-schema",
             "version": "1.6.1",
             "source": {
@@ -7387,7 +7425,7 @@
             ],
             "description": "Symfony PHPUnit Bridge",
             "homepage": "https://symfony.com",
-            "time": "2017-06-12T16:03:21+00:00"
+            "time": "2017-06-12 16:03:21"
         }
     ],
     "aliases": [],

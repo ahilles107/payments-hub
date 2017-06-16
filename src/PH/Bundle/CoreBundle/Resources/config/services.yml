@@ -1,20 +1,32 @@
 services:
-#    ph_core.example:
-#        class: PH\Bundle\CoreBundle\Example
-#        arguments: ["@service_id", "plain_value", "%parameter%"]
-
     sylius.invoice_number_generator:
         class: Sylius\Component\Core\Payment\IdBasedInvoiceNumberGenerator
 
-    sylius.custom_factory.payment_method:
+    ph.custom_factory.payment_method:
         class: Sylius\Component\Core\Factory\PaymentMethodFactory
         decorates: sylius.factory.payment_method
         public: false
         arguments:
-            - "@sylius.custom_factory.payment_method.inner"
+            - "@ph.custom_factory.payment_method.inner"
             - "@sylius.factory.gateway_config"
 
     sylius.form.extension.type.payment_method:
         class: PH\Bundle\CoreBundle\Form\Extension\PaymentMethodTypeExtension
         tags:
             - { name: form.type_extension, extended_type: Sylius\Bundle\PaymentBundle\Form\Type\PaymentMethodType }
+
+    swp.form.type.checkout_select_payment:
+        class: PH\Bundle\CoreBundle\Form\Type\Checkout\SelectPaymentType
+        arguments:
+            - '%sylius.model.order.class%'
+            - [ph]
+        tags:
+            - { name: form.type }
+
+    swp.form.type.checkout_payment:
+        class: PH\Bundle\CoreBundle\Form\Type\Checkout\PaymentType
+        arguments:
+            - '%sylius.model.payment.class%'
+            - [ph]
+        tags:
+            - { name: form.type }
